@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Patrick Hofmann</h1>
 
 - 🔭 I’m currently working on: **Minecraft mods for** [**Lazurite**](https://github.com/LazuriteMC)
-- 🌱 I’m currently learning: **Math through C/C++**
+- 🌱 I’m currently learning: **Math through [C](https://github.com/The-PPWD/Skipper-C) and [C++](https://github.com/The-PPWD/Skipper-Cxx)**
 - 📫 How to reach me: [patrickhofmanndesigns@gmail.com](mailto:patrickhofmanndesigns@gmail.com)
 - 📄 Know more about me: [LinkedIn](https://www.linkedin.com/in/patrick-john-hofmann/)
 
